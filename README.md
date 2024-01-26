@@ -1,2 +1,2 @@
-# SQL_projects
+# Analyzing music database
 SQL files to know about projects
